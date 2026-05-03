@@ -1,0 +1,8 @@
+python==3.10 
+tensorflow==2.10.0
+numpy
+matplotlib
+opencv-python
+flask
+pillow
+scikit-learn
