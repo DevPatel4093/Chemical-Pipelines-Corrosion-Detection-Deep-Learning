@@ -45,8 +45,6 @@ The model uses MobileNetV2 as a feature extractor followed by:
 ---
 
 ## 📁 Project Structure
-
-## 📁 Project Structure
 ```
 Chemical-Pipelines-Corrosion-Detection-Deep-Learning/
 ├── app.py                      # Flask backend
